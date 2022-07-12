@@ -24,7 +24,7 @@ Friendly, light router library.
 ```yarn add navigo```
 
 #### [Firebase](https://firebase.google.com/docs/reference)
-Batteries includede serverless apps.
+Batteries included serverless apps.
 
 ```yarn add firebase firebase-tools```
 
